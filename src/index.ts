@@ -7,6 +7,8 @@ app.get("/", (req, res) => {
     res.send("Salom, TypeScript bilan Node.js ishlayapti!");
 });
 
+// Serverni ishga tushurish
+
 app.listen(PORT, () => {
     console.log(`🚀 Server http://localhost:${PORT} da ishlayapti`);
 });
