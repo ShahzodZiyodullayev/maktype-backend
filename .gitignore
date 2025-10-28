@@ -57,6 +57,7 @@ typings/
 
 # Grammy.js build / generate output
 build
+dist
 
 # Gatsby files
 .cache/
